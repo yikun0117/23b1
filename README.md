@@ -19,7 +19,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
 
-1. First ordered list item
+1.First ordered list item
 2. Another item <br>
 ..*  Unordered sub-list.
 4. Actual numbers don't matter, just that it's a number</br>
