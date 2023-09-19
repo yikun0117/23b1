@@ -18,14 +18,13 @@ Combined emphasis with **asterisks and underscores.**
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
-
-1.First ordered list item
-2. Another item <br>
+1.First ordered list item  
+2. Another item <br>  
 ..*  Unordered sub-list.
-4. Actual numbers don't matter, just that it's a number</br>
+4. Actual numbers don't matter, just that it's a number</br>  
 ..1. Ordered sub-list</br>
 ...2. 2nd
-5. And another item.</br>
+5. And another item.</br>  
 ...* note 1</br>
 ...* note 2</br>
 ***  note 3
